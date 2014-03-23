@@ -457,6 +457,7 @@
 				4AAA30E818DA2DEC00A8D924 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AAA30E918DA2DEC00A8D924 /* Build configuration list for PBXNativeTarget "NinjaTicTacToeTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				4AAA30EB18DA2DEC00A8D924 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
